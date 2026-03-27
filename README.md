@@ -1,6 +1,3 @@
-# ListsTurner
-A local-first, user-controlled music sync tool with optional AI enhancement.  
-一个本地优先、用户可控、可选 AI 增强的多平台音乐同步工具。
 # 🎵 ListsTurner
 
 <p align="center">
@@ -361,3 +358,16 @@ In the long run, ListsTurner may expand to support more music platforms, for exa
 But this is a direction, not a guarantee of immediate implementation.
 
 不过这代表的是未来方向，并不意味着会立刻实现。
+
+---
+
+## 📢 Lastest | 说点别的
+
+Promotion for this project will begin after the first version is released,  
+as we prefer to keep a low profile during early development.
+but give a star if you like:3 thanks~
+
+该项目的推广会在第一个版本发布后再进行（不太想占用太多公共资源），  
+因此目前只有在本仓库可以看到这个项目。
+
+如果你关注这个项目，也可以点一个 star 啦づ♡ど
